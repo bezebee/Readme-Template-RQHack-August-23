@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><strong>👨‍🔧👨🏻‍🔧👸🏼🍄🐲 Retro Quest 👨‍🔧👨🏻‍🔧👸🏼🍄🐲</strong>
+<h1 align="center"><strong>👨‍🔧👨🏻‍🔧👸🏼🍄🐲 Retro Quest 🐲🍄👸🏼👨🏻‍🔧👨‍🔧</strong>
 
 </h1>
 
